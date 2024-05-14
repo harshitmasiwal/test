@@ -1,4 +1,2 @@
 # test
-testing git/github
-ram <br> ram 
-hello 
+this is my practice repo 
